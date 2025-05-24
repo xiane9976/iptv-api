@@ -163,14 +163,14 @@ VIUTV6,http://m.osvs.asia:8000/bysid/96
 无线戏曲,http://hkenlive.uk/livehttpplay?channel_id=13026
 无线粤片,http://hkenlive.uk/livehttpplay?channel_id=13021
 无线经典,http://hkenlive.uk/livehttpplay?channel_id=13024
-无线华剧,http://hkenlive.uk/livehttpplay?channel_id=13023
+华剧台,http://hkenlive.uk/livehttpplay?channel_id=13023
 无线亚剧,http://hkenlive.uk/livehttpplay?channel_id=13022
 无线亚综,http://hkenlive.uk/livehttpplay?channel_id=13020
 无线赛马,http://hkenlive.uk/livehttpplay?channel_id=13005
-无线星河,http://go1.bkpcp.top/tl/null-7 
+星河台,http://go1.bkpcp.top/tl/null-7 
 无线综合,http://go1.bkpcp.top/tl/null-3
 无线粤片,http://go1.bkpcp.top/tl/null-10
-无线华剧,http://go1.bkpcp.top/tl/null-4 
+华剧台,http://go1.bkpcp.top/tl/null-4 
 黄金翡翠,http://go1.bkpcp.top/tl/null-2 
 
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
@@ -224,7 +224,7 @@ Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009
 Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
 Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
 pₒₚc电影,http://go1.bkpcp.top/tl/popc
-无线J1综合高,http://cdn5.1678520.xyz/live/?id=j1
+无线 J1,http://cdn5.1678520.xyz/live/?id=j1
 RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
 RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 Ftv1时代,http://tlive24.uk/livehttpplay?channel_id=50208
@@ -283,13 +283,13 @@ HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-无线J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+无线 J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=无线jade
 华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
-无线星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+星河台,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=无线classic
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=无线classic
 Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
@@ -362,7 +362,7 @@ ELTa影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-无线 J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=无线p
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
@@ -389,7 +389,7 @@ nowsports,https://stream1.freetv.fun/nowsports-1.ctv
 VIUTV,http://m.osvs.asia:8000/bysid/99
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台北美版(无线 J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+无线 J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -403,7 +403,7 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=无线c
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
@@ -435,13 +435,13 @@ CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
-无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://cdn.132.us.kg/live/无线p/stream.m3u8
 TVB Plus,https://stream1.freetv.fun/无线-j2-1.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-无线J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+无线 J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://m.osvs.asia:8000/bysid/99
@@ -470,7 +470,7 @@ Plus综合,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476933.m3u8
 无线1综合,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
 翡翠台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476927.m3u8
 无线明珠,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476935.m3u8
-无线星河,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
+星河台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
 无线经典,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8
 无线亚剧,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477549.m3u8
 台视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476268.m3u8
@@ -490,7 +490,7 @@ ELTA体2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台北美版(无线 J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+无线 J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
