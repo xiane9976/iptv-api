@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250526182051 +0800">
+<tv date="20250526183110 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6509,6 +6509,15 @@
 	</programme>
 	<programme channel="魅力足球" start="20250527222200 +0800" stop="20250527235900 +0800">
 		<title lang="zh">英超第10轮:曼联-切尔西</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250527000200 +0800" stop="20250527013500 +0800">
+		<title lang="zh">东邪西毒：终极版</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527013500 +0800" stop="20250527034500 +0800">
+		<title lang="zh">入殓师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
