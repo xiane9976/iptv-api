@@ -1,3 +1,16 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+cdn.iptv8k.top
+audio
+www.freetv.top
+//ldcctvw
+http://live.xmcdn.com/live/252/64.m3u8
+radio
+mp4
+nn.7x9d.cn
+satellitepull.cnr.cn
+chinamobile
+222.128.55.152:9080
+81a8a44f
+218.202.220.2:5000
