@@ -58,6 +58,7 @@
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748253139&key=5ceecdccd7822f58833b3e3d08f3bbc1
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748280279&key=c126e2baf1f8a61321b9e89957b9cd90
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748294604&key=adb4a3f31b4ea3bdf40026fef4817abe
+广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748330780&key=e340cc58c467afe4f3216915e132731a
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
 广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=f84d116447cf4c6fc8a66820d3fa2777&txTime=193108637cb
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
@@ -190,6 +191,7 @@ CCTV-6,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000016466
 CCTV-6,http://yc.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
 CCTV-6,http://nas.suntao.online:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
+CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
 CCTV-7,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8
@@ -205,6 +207,7 @@ CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000003736
 CCTV-8,http://nas.suntao.online:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 CCTV-8,http://yc.myds.me:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV-8,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8
 CCTV-9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
@@ -657,6 +660,7 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748253139&key=5ceecdccd7822f58833b3e3d08f3bbc1
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748280279&key=c126e2baf1f8a61321b9e89957b9cd90
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748294604&key=adb4a3f31b4ea3bdf40026fef4817abe
+广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1748330780&key=e340cc58c467afe4f3216915e132731a
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 江苏体育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748157804&key=d1842780c09b732e49163446334e54fd
@@ -664,6 +668,8 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748253139&key=d51149f1769240fd79825ac846975d35
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748280279&key=0f3c0abbfb843e4a0fdfac7c0cae1398
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748294604&key=a2490cc84779b25eba11c9fe8a8c5470
+江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748330780&key=c4dbfca8d6abdf356584d5213078241c
+江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1748338081&key=34ddac4367c3edf0a7a42998b7fd3d5a
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
@@ -688,4 +694,4 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
 
 🕘️更新时间,#genre#
-2025-05-27 18:27:40,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+2025-05-28 06:23:41,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
