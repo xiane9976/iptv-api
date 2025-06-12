@@ -83,7 +83,6 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://cdn5.1678520.xyz/live/?id=无线p
@@ -130,6 +129,8 @@ VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 天映经典,http://j.s.bkpcp.top/jj/tyjd
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 天映经典,https://011v4.pendy.dpdns.org/stream/tvb/cccm/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+天映经典,https://iptv.mydiver.eu.org/live/encrypted/NWM2YTg0NWUxNjBiYzZiNjY5M2YxMTAxZTM1MGUyZTM6YjRjNGI1YjNlNWFhY2I3YjkzZTQzMzQ4ODliMTVhZWNmZDJiODZjNGU2YzU0NGYxMWEwNGFiOWViOGQxZjc0MzhjZDg5Yzg2NTZlMzQzODQ2MWFjNTU5MzMyZDFjNzEwODE2MDQ1MDg3N2M3ZTRmNDQyY2I4ZWNkMTZkYWJkNzA4YmEzMThlOGFhOGZlZTljYzRkMWIyOWU0NzIzZDMyMjgxNGJmNjdlOWIzNWMxMjQxYjBjY2I3MGMyNGJlNzFmZjViNmVhNzM0MzFiMWNmMjcxNjVjY2RhMWU5OTRiOGIwOTgzNTgxOTRlNmQ2OTQxOWZmZDY2ODc0YTRjN2RjMjZmMTJlMTU3NmQ2OWNmZjllMjIwZDAwNGQ5MzhlNzdlZmJjYmI4MWVkZDAyZDMwOTg5Yzg5NzhiYzM2ZGEzMzlhMTA0YzIxYzIyYWVkOTJhY2I5NjllN2IzOTFkOWJhMjhkYjFkMWQxZjMzOTIxYWRhZDg4MjY3YjYxNGZiOWU2?username=tg_vnpu89z4
+天映经典,https://iptv.mydiver.eu.org/live/encrypted/YzAzNTRiMmE1MGNmMTllMTQ0YjJjMGE1MDBiNjgwZjE6YjlkNzVlNzUzZDM4MTJjNjVjYmEzOTE4MTNjNmFlZTE2ZGZkNWI4NWU2ZGJiNzAzYzBjNTkxMzFhMTE0ODA0MjVkYzczYzBjNWY2NDI2YTQ3ODUyMjNhNGM4ZTlmZjg1MzY5ZTI3OGJhNDhiMDU3MmI0N2ZmYTkyNTQyNDRjZTczMDA0MDQzMDliNTdhYzVjMzU5ODMzYjE1OWM3NDg5OGJiNWVlNzk2MjE3NGE3ZmZkNjk1YWJhYWNlNjdjYjJlOWNkZmZjODc5MDEyYzY4NGZjMDZiNjFhNTRhMDRmOWViMjc2OTNkMTEzYzEwNGJkOTFjM2Q1MTNlM2E1YmFmMzNlYmQ1YjQzOTcxODk5MzMzNzYxMzhkNWM0ZTFmMDU2NjM3MDIzYTU2NjVmZDBkN2YwZjI4YWM3NWQyN2NjNzY0MWVmZTYzZjliNTUzM2MxNjllMDYzYTA3OGE0Nzk4YjAyMDI0NjdmZDY3OWQwM2RkOTQzOWQ4OTQxNDhmMGUz?username=tg_vnpu89z4
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152
 东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
@@ -596,9 +597,11 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 天映经典,http://j.s.bkpcp.top/jj/tyjd
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 天映经典,https://011v4.pendy.dpdns.org/stream/tvb/cccm/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+天映经典,https://iptv.mydiver.eu.org/live/encrypted/NWM2YTg0NWUxNjBiYzZiNjY5M2YxMTAxZTM1MGUyZTM6YjRjNGI1YjNlNWFhY2I3YjkzZTQzMzQ4ODliMTVhZWNmZDJiODZjNGU2YzU0NGYxMWEwNGFiOWViOGQxZjc0MzhjZDg5Yzg2NTZlMzQzODQ2MWFjNTU5MzMyZDFjNzEwODE2MDQ1MDg3N2M3ZTRmNDQyY2I4ZWNkMTZkYWJkNzA4YmEzMThlOGFhOGZlZTljYzRkMWIyOWU0NzIzZDMyMjgxNGJmNjdlOWIzNWMxMjQxYjBjY2I3MGMyNGJlNzFmZjViNmVhNzM0MzFiMWNmMjcxNjVjY2RhMWU5OTRiOGIwOTgzNTgxOTRlNmQ2OTQxOWZmZDY2ODc0YTRjN2RjMjZmMTJlMTU3NmQ2OWNmZjllMjIwZDAwNGQ5MzhlNzdlZmJjYmI4MWVkZDAyZDMwOTg5Yzg5NzhiYzM2ZGEzMzlhMTA0YzIxYzIyYWVkOTJhY2I5NjllN2IzOTFkOWJhMjhkYjFkMWQxZjMzOTIxYWRhZDg4MjY3YjYxNGZiOWU2?username=tg_vnpu89z4
+天映经典,https://iptv.mydiver.eu.org/live/encrypted/YzAzNTRiMmE1MGNmMTllMTQ0YjJjMGE1MDBiNjgwZjE6YjlkNzVlNzUzZDM4MTJjNjVjYmEzOTE4MTNjNmFlZTE2ZGZkNWI4NWU2ZGJiNzAzYzBjNTkxMzFhMTE0ODA0MjVkYzczYzBjNWY2NDI2YTQ3ODUyMjNhNGM4ZTlmZjg1MzY5ZTI3OGJhNDhiMDU3MmI0N2ZmYTkyNTQyNDRjZTczMDA0MDQzMDliNTdhYzVjMzU5ODMzYjE1OWM3NDg5OGJiNWVlNzk2MjE3NGE3ZmZkNjk1YWJhYWNlNjdjYjJlOWNkZmZjODc5MDEyYzY4NGZjMDZiNjFhNTRhMDRmOWViMjc2OTNkMTEzYzEwNGJkOTFjM2Q1MTNlM2E1YmFmMzNlYmQ1YjQzOTcxODk5MzMzNzYxMzhkNWM0ZTFmMDU2NjM3MDIzYTU2NjVmZDBkN2YwZjI4YWM3NWQyN2NjNzY0MWVmZTYzZjliNTUzM2MxNjllMDYzYTA3OGE0Nzk4YjAyMDI0NjdmZDY3OWQwM2RkOTQzOWQ4OTQxNDhmMGUz?username=tg_vnpu89z4
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smart.pendy.dpdns.org/Smart.php
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,http://smt.iktv.ddns-ip.net/Smart.php
 
@@ -625,9 +628,9 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,http://smt.iktv.ddns-ip.net/Smart.php
+纬来体育,https://smart.pendy.dpdns.org/Smart.php
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
@@ -710,4 +713,4 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
 
 🕘️更新时间,#genre#
-2025-06-12 18:32:49,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+2025-06-13 06:30:06,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
