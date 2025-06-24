@@ -13,7 +13,9 @@
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
@@ -83,6 +85,7 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://cdn5.1678520.xyz/live/?id=无线p
@@ -633,6 +636,7 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,http://smt.iktv.ddns-ip.net/Smart.php
 纬来体育,https://smart.pendy.dpdns.org/Smart.php
@@ -720,4 +724,4 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
 
 🕘️更新时间,#genre#
-2025-06-24 06:31:35,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+2025-06-24 18:31:46,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
