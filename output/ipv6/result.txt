@@ -31,6 +31,7 @@
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
 大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
+大湾区卫视,https://migu.188766.xyz/?migutoken=adec474ac1b965e2b10805a80ef8da61&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=82c6bfd1d14bdd5cefbeb40aae404dd5&txTime=194d0c43cd6
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
@@ -85,7 +86,6 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB Plus,http://cdn5.1678520.xyz/live/?id=无线p
@@ -728,4 +728,4 @@ CCTV-5+,http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
 
 🕘️更新时间,#genre#
-2025-07-27 18:21:28,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+2025-07-28 06:20:45,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
