@@ -21,27 +21,27 @@ VIUTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://ymz.stkeyu.top:8303/rtp/239.77.1.144:5146
-CCTV-1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV-1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+CCTV-1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV-1,http://home.yulei.online:9999/rtp/226.0.2.153:9136
 CCTV-2,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
 CCTV-3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
 CCTV-3,http://218.241.192.50:8808/rtp/239.3.1.172:8001
-CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
-CCTV-4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
+CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
 CCTV-4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
 CCTV-5,http://218.241.192.50:8808/rtp/239.3.1.173:8001
 CCTV-5+,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 CCTV-6,http://218.241.192.50:8808/rtp/239.3.1.174:8001
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://218.241.192.50:8808/rtp/239.3.1.61:8104
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
-CCTV-8,http://218.241.192.50:8808/rtp/239.3.1.175:8001
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
+CCTV-8,http://218.241.192.50:8808/rtp/239.3.1.175:8001
 CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
 CCTV-9,http://218.241.192.50:8808/rtp/239.3.1.62:8112
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
@@ -69,6 +69,7 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 北京卫视,http://218.241.192.50:8808/rtp/239.3.1.241:8000
 湖北卫视,http://218.241.192.50:8808/rtp/239.3.1.138:8044
 黑龙江卫视,http://218.241.192.50:8808/rtp/239.3.1.133:8016
+黑龙江卫视,http://101.23.150.109:9901/tsfile/live/0143_1.m3u8
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,http://218.241.192.50:8808/rtp/239.3.1.211:8064
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
@@ -87,6 +88,7 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 吉林卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin
 吉林卫视,http://218.241.192.50:8808/rtp/239.3.1.240:8172
 江苏卫视,rtmp://weishi.hyuui.top/weishi/1234_jiangsu
+江苏卫视,http://101.23.150.109:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://218.241.192.50:8808/rtp/239.3.1.135:8028
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西卫视,http://218.241.192.50:8808/rtp/239.3.1.123:8164
@@ -110,4 +112,4 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 足球频道,http://ymz.stkeyu.top:8303/rtp/239.253.43.202:5146
 
 🕘️更新时间,#genre#
-2025-09-14 06:15:37,http://218.241.192.50:8808/rtp/239.3.1.142:8048
+2025-09-14 18:20:44,http://218.241.192.50:8808/rtp/239.3.1.142:8048
