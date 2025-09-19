@@ -1,5 +1,6 @@
 ☘️广东频道,#genre#
 广东卫视,http://218.241.192.50:8808/rtp/239.3.1.142:8048
+广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=82c6bfd1d14bdd5cefbeb40aae404dd5&txTime=194d0c43cd6
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
@@ -20,34 +21,34 @@ VIUTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-1,http://ymz.stkeyu.top:8303/rtp/239.77.1.144:5146
 CCTV-1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV-1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-CCTV-2,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_ud.m3u8
-CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-2,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV-3,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv3&ChannelID=cctv3&videoTVChannel=cctv3&P2PChannelID=pd://cctv_p2p_cctv3
-CCTV-3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,http://218.241.192.50:8808/rtp/239.3.1.172:8001
-CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
+CCTV-3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?b=200-1200
 CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
+CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://111.227.196.164:9901/tsfile/live/faacts/0004_1.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,http://218.241.192.50:8808/rtp/239.3.1.173:8001
 CCTV-5+,http://218.241.192.50:8808/rtp/239.3.1.130:8004
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,http://218.241.192.50:8808/rtp/239.3.1.174:8001
+CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-7,http://218.241.192.50:8808/rtp/239.3.1.61:8104
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
-CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
 CCTV-8,http://218.241.192.50:8808/rtp/239.3.1.175:8001
+CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8
 CCTV-9,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctvjilu&ChannelID=cctvjilu&videoTVChannel=cctvjilu&P2PChannelID=pd://cctv_p2p_cctvjilu
+CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-9,http://218.241.192.50:8808/rtp/239.3.1.62:8112
 CCTV-10,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv10&videoTVChannel=cctv10&P2PChannelID=pd://cctv_p2p_cctv10&tai=cctv10&VideoName=cctv10&channelID=cctv10
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
@@ -56,19 +57,17 @@ CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&Chann
 CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://218.241.192.50:8808/rtp/239.3.1.152:8120
-CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
 CCTV-12,http://218.241.192.50:8808/rtp/239.3.1.64:8124
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://218.241.192.50:8808/rtp/239.3.1.124:8128
 CCTV-14,rtmp://weishi.hyuui.top/weishi/1234_cctv14
 CCTV-14,http://218.241.192.50:8808/rtp/239.3.1.65:8132
-CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://218.241.192.50:8808/rtp/239.3.1.153:8136
 CCTV-16,http://218.241.192.50:8808/rtp/239.3.1.184:8001
-CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-17,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv17&videoTVChannel=cctv17&P2PChannelID=pd://cctv_p2p_cctv17&tai=cctv1&VideoName=cctv1&channelID=cctv17
 CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 
@@ -77,14 +76,14 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 浙江卫视,http://218.241.192.50:8808/rtp/239.3.1.137:8036
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-湖南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=32
 湖南卫视,http://218.241.192.50:8808/rtp/239.3.1.132:8012
+湖南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=32
 北京卫视,http://iptv.zkbhj.com/tv/url/go?id=150a1f3a8de1cfb773e2ccbaa23d2916f2325e82e1723382000c25c9009b1449c82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 北京卫视,http://218.241.192.50:8808/rtp/239.3.1.241:8000
 湖北卫视,http://218.241.192.50:8808/rtp/239.3.1.138:8044
 黑龙江卫视,http://218.241.192.50:8808/rtp/239.3.1.133:8016
-安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,http://218.241.192.50:8808/rtp/239.3.1.211:8064
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,http://218.241.192.50:8808/rtp/239.3.1.122:8160
@@ -103,7 +102,6 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 吉林卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=jilin&videoTVChannel=jilin&P2PChannelID=pd://cctv_p2p_hdjilin&tai=jilin&VideoName=jilin&channelID=jilin
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,http://218.241.192.50:8808/rtp/239.3.1.240:8172
 江苏卫视,rtmp://weishi.hyuui.top/weishi/1234_jiangsu
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
@@ -123,12 +121,13 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
-深圳体育,http://zzh1021.x3322.net:8188/rtp/239.77.1.8:5146
 深圳体育,http://wmh.wmh.ink:6633/rtp/239.77.1.8:5146
+深圳体育,http://zzh1021.x3322.net:8188/rtp/239.77.1.8:5146
 深圳体育,http://zzh1021.x3322.net:8188/rtp/239.77.1.140:5146
 福建体育,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.160:8948
 天津体育,http://nas.hssvm.com:8888/udp/225.1.1.122:5002
 睛彩篮球,http://thhomes.cn:4000/rtp/239.3.1.126:8001
+睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
 睛彩广场舞,http://thhomes.cn:4000/rtp/239.3.1.128:8001
 足球频道,http://wmh.wmh.ink:6633/rtp/239.253.43.202:5146
@@ -136,4 +135,4 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 足球频道,http://zzh1021.x3322.net:8188/rtp/239.253.43.202:5146
 
 🕘️更新时间,#genre#
-2025-09-19 06:16:07,http://218.241.192.50:8808/rtp/239.3.1.142:8048
+2025-09-19 18:19:22,http://218.241.192.50:8808/rtp/239.3.1.142:8048
