@@ -191,6 +191,7 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern
 东森洋片,http://live.catvod.com/smart.php?id=ettvwestern
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=f9ccb9f1d8c9d5430a0ccbe00c84e80b438b6e14424ce2f52a28d043de72a72b%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
@@ -225,8 +226,8 @@ CCTV-3,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011218
 CCTV-3,http://nas.suntao.online:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 CCTV-3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
 CCTV-3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
-CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
+CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
@@ -261,8 +262,8 @@ CCTV-6,http://nas.suntao.online:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
 CCTV-6,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
-CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
 CCTV-7,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8
@@ -342,7 +343,6 @@ CCTV-14,http://nas.suntao.online:35455/itv/1000000001000008170.m3u8?cdn=ystenliv
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV-15,http://218.8.87.96:4000/rtp/229.58.190.127:5000
-CCTV-15,http://113.57.93.165:9900/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8
 CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
@@ -633,7 +633,6 @@ CCTV-17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225739/2/index.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8?txiptv
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
@@ -709,6 +708,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
 纬来电影,http://live.catvod.com/smart.php?id=videolandmovie
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=1fa7e42d357b8af43db2b23d3d3d00eb2c15a1c512a0d0b0adcdc486cea2174f%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
@@ -718,7 +718,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
-靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
@@ -744,6 +743,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern
 东森洋片,http://live.catvod.com/smart.php?id=ettvwestern
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=f9ccb9f1d8c9d5430a0ccbe00c84e80b438b6e14424ce2f52a28d043de72a72b%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
 东森超视,http://smt.iktv.ddns-ip.net/Smart.php
 东森超视,https://smart.pendy.dpdns.org/Smart.php
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
@@ -882,8 +882,6 @@ CCTV-5+,http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 魅力足球,https://tv.fanmingming.com/api/v6
 魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 
 🕘️更新时间,#genre#
-2025-10-13 06:14:50,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+2025-10-13 18:18:35,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
